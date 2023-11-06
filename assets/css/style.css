@@ -19,6 +19,12 @@
   outline: none !important;
 }
 
+.signup-form-text {
+  margin-top: 4.5rem;
+  margin-left: 3rem;
+  margin-right: 12rem;
+}
+
 .sss {
   border: 1px solid red;
 }
